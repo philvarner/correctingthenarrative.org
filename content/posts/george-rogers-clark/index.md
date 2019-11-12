@@ -1,10 +1,7 @@
 ---
 title: "Why George Rogers Clark Elementary?"
 date: 2019-11-08T00:00:00-00:00
-draft: true
 ---
-
-## Introduction
 
 George Rogers Clark Elementary School opened in 1931 in the Belmont neighborhood of Charlottesville, Virginia, as the primary school for white students living on the east side of the city.
 
@@ -14,7 +11,7 @@ George Rogers Clark Elementary School opened in 1931 in the Belmont neighborhood
 ![George Rogers Clark Elementary School entrance](clark_school.jpg "George Rogers Clark Elementary School entrance")
 (taken 2019)
 
-Ten years prior, Paul G. McIntire had funded the most visually racist statue in the United States, *George Rogers Clark*, by Robert Ingersoll Aitken, presently sited on the Grounds of the University of Virginia.  
+Ten years prior, Paul G. McIntire had funded what is likely the most visually racist statue in the United States, *George Rogers Clark* by Robert Ingersoll Aitken, presently sited on the Grounds of the University of Virginia.  
 
 ![George Rogers Clark statue](clark_statue_1.jpg "George Rogers Clark statue")
 
@@ -22,13 +19,17 @@ The inscription for this statue heroically proclaims Clark "Conqueror of the Nor
 
 ![George Rogers Clark statue inscription](clark_statue_inscription.jpg "George Rogers Clark statue inscription")
 
-But who **was** Clark, and why does Charlottesville have a school named after him?
+So, who was Clark, and why does Charlottesville have a school named after him?
 
 On the Charlottesville City Schools website, the [About Clark Elementary School](charlottesvilleschools.org/clark/us) page states:
 
 >"The school is named for George Rogers Clark, the American frontiersman and Revolutionary War general. (Clark’s younger brother William was half of ‘Lewis & Clark.’)"
 
-This is an intentionally simplified and sanitized summary, so let's dig a little deeper. 
+This is an intentionally simplified and sanitized summary of Clark.  A more accurate summary is:
+
+> George Rogers Clark was an American miliary officer who executed US government policy to eradicate Native Americans from what is now the Midwest of the United States during the Revolutionary War.  His family grew wealthy through enslaving Black people on their several plantations.  
+
+Let's dig a little deeper. 
 
 ![GRC birthplace map](grc_birthplace_map.png "GRC birthplace map")
 
@@ -53,7 +54,7 @@ When Clark was four years old, in 1756, his family moved to Caroline County, Vir
 
 ![GRC Portrait](grc_portrait.jpg "George Rogers Clark portrait")
 
-He began his military career during Lord Dunmore's War in the Virginia militia against the Shawnee and Mingo American Indian nations.  When the Revolutionary War begin, he was the highest ranking officer on the sparsely-contested western theatre, leading a milita during the Illinois campaign.  The majority of the engagements during this, including Kaskaskia (1778) and Vincennes (1779), were against British-led units consisting primarily of allied Native American soldiers.  Several years later, he led units during the start of the Northwest Indian War (Little Turtle's War) against a confederation of British-supported Native American nations, but was pushed out after a failed mission and competitors using his alcoholism to discredit him.  
+He began his military career during Lord Dunmore's War in the Virginia militia against the Shawnee and Mingo American Indian nations.  When the Revolutionary War begin, he was comissioned as a lieutenant colonel and led a milita during the Illinois campaign.  The majority of the engagements during this, including Kaskaskia (1778) and Vincennes (1779), were against British-led units consisting primarily of allied Native American soldiers.  He was later promoted to brigadier general, and was the highest ranking officer in the western theatre of the war. Several years later, he led units during the start of the Northwest Indian War (Little Turtle's War) against a confederation of British-supported Native American nations, but was pushed out after a failed mission and competitors using his alcoholism to discredit him.  
 
 This highway marker, replaced with revised text in 2016, stands about a mile from his birthplace:
 
@@ -63,14 +64,14 @@ Though the original 1928 marker was quite different:
 
 ![GRC birthplace marker 1928](GRC_W199_1928.jpg "GRC birthplace marker 1928")
 
-The missing part here is that "defender of Kentucky" really means "defender of white settlers in Kentucky against Native Americans, who sought to reclaim land that was taken from them".  And note that "Conqueror of the Northwest" is removed, since that the "conqueroring" was ostensibly against the colonial power of Britain, but practically against the Native Americans who had already settled on or claimed rights over the land.
+The missing part here is that "defender of Kentucky" really means "defender of white settlers in Kentucky against Native Americans, who sought to reclaim land that was taken from them".  And note that "Conqueror of the Northwest" is removed, since the "conqueroring" was ostensibly against the colonial power of Britain, but practically against the Native Americans who had already settled on or claimed rights over the land.  
 
 However, Clark's victories were largely symbolic rather than militarily important -- symbolic of the nascent United States' ability to perpetuate a settler-colonialist agenda on the "frontier" against Native Americans. Even Clark's most significant victory, the capture of Fort Sackville at Vincennes, was done with only 160 men, compared with the Continental Army's numerous eastern engagements with thousands of troops.  
 
-This settler-colonist agenda of what we would now call genocide is made explicit in the 
+This settler-colonist agenda of what we now call genocide is made explicit in the 
 [correspondence between Clark and then Governor of Virginia Thomas Jefferson](https://founders.archives.gov/search/Correspondent%3A%22Clark%2C%20George%20Rogers%22%20Correspondent%3A%22Jefferson%2C%20Thomas%22).
 
-In an unsent draft of one letter to Clark, Jefferson makes this policy explict:
+In an unsent draft of one letter to Clark, Jefferson makes this policy clear:
 
 >From Thomas Jefferson to George Rogers Clark
 >1 January 1780
@@ -119,11 +120,11 @@ Clark spent a significant amount of his personal wealth funding his military uni
 
 But **why** would it be so important to put up a statue to Clark in 1921, and name a school after him ten years later?
 
-**Paul G. McIntire**
+**Paul G. McIntire**.  [McIntire](https://www.cvillepedia.org/Paul_Goodloe_McIntire) was born in Charlottesville just prior to the secession of Virginia that precipitated the Civil War. After making his fortune in Chicago, retired back to the City.  He donated a signficant amount of money to both UVA and the city and country, as evidenced by the numerous places named for him.  These donations include both the *Robert Edward Lee* and *Thomas Jonathan Jackson* statues in downtown Charlottesville.
 
 ![Paul G. McIntire](mcintire.jpg "Paul G. McIntire")
 
-McIntire’s first wife, Edith Clark, was a descendant of G. R. Clark's father, John Clark III.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having, in 1924, supported naming Venable Primary for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, he supports naming the new white school for Clark in 1930.
+McIntire’s first wife, Edith Clark, was a descendant of G. R. Clark's father, John Clark III.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having, in 1924, supported naming the new primary school for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, he supports naming the new white school for Clark in 1930.
 
 >At a regular meeting of the School Board held March 20, 1930, Mr. Paul G. McIntire appeared before the School Board and set forth in a very clear and concise manner his reasons for thinking the name, George Rogers Clark, especially appropriate for the new school plant. At this meeting the name George Rogers Clark School was given to the new building to be constructed.  It is not necessary to discuss the felicity of this name. Clark was born almost in sight of the location of this school building, and his services to Virginia and the nation are well known.
 >
@@ -153,6 +154,8 @@ Burnley was then the principal of McGuffey Primary and a "true daughter" of the 
 
 These circumstances lead to the conclusion that this is not just the memorialization of a Revolutionary War hero, but rather an overt attempt to promote a white supremicist agenda.  A mounted Clark is clearly threatening a group of Native Americans as part of the statue, rather than, for example, British officer Henry 
 Hamilton, the commander during of Clark's capture of Fort Sackville.
+
+In the memorialization of Clark, we have different but related manifestations of white supremacy -- in the late 1700s we have the push to exterminate Native Americans so their land could be given to white settlers and the enslavement of Africans for the enrichment of plantation owners, and in the 1920s we have public veneration of Clark and others, such as Robert E. Lee and Stonewall Jackson, to support segregation and Jim Crow. As a community, we now have greater respect for one another in a multicultural society, and must re-evaluate the existance of these artifacts of explicit racism and white supremacy.
 
 ## Resources
 
