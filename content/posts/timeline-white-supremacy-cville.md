@@ -5,11 +5,12 @@ date: 2019-11-01T00:00:00-00:00
 
 # A Timeline of Events Related to Racism and White Supremacy in Charlottesville, Virginia
 
-* For more than 10,000 years, indigenous Native Americans inhabit Virginia. 
-* **1500s** Encounters with Spanish and English explorers being spreading diseases, such as influenza and smallpox, to which Native Americans had no resistance, decimating many groups. 
+**This timeline is a work in progress.  Corrections, additions, and any other feedback is appreciatively welcomed**
+
+* For at least 10,000 years, Indigenous Native Americans inhabit Virginia.  At the time of first European contact, these include numerous groups speaking Algonquian, Iroquoian, and Siouan languages.  The Monacan people inhabit the area around Charlottesville.
 * **1607** The first permanent English settlement is established at Jamestown, in an area already occupied by the  Powhatan autocracy. Siouan Indians of the Monacan and Mannahoac tribes inhabit Virginia west of the Blue Ridge Mountains, including the area around what will become Charlottesville.
 * **1781** Thomas Jefferson publishes his only book, *Notes on the State of Virginia*. It is an intellectual pillar of racist thought at the time.
-* **1807 January 19** Gen. Robert E. Lee born at Stratford Hall, Virginia
+* **1807 January 19** Gen. Robert E. Lee born at Stratford Hall, Virginia.
 * **1861 April** Gen. Robert E. Lee resigns from United States Army and is elected leader of the Virginia state forces, which is later subsumed into the Confederate States Army
 * **1863 January 1** Emancipation Proclamation issued, freeing enslaved individuals in the parts of the Confederate States not under Union control.  Slavery had already been outlawed in every Northern state.
 * **1865 March 3** The Union Army under Major General Philip Sheridan arrives in Charlottesville, freeing more than 14,000 enslaved people. 
@@ -23,6 +24,7 @@ date: 2019-11-01T00:00:00-00:00
 * **1915**  D. W. Griffith releases the cinematically-revolutionary and overtly-racist film *The Birth of a Nation*. It presentations the Ku Klux Klan as a heroic force, resulting in a resurgence of the white supremacist group (the "Second Klan").
 * **1918** Lee Park (Emancipation Park, Market Street Park) donated by Paul G. McIntire, on the site of the Southall-Venable House, formerly owned by Col. Charles S. Venable. It is a white-only park.
 * **1919** Jackson Park (Justice Park, Court Square Park) donated by Paul G. McIntire. It is a white-only park.
+* **1919** Statue *Their First View of the Pacific*, also known as *Meriwether Lewis and William Clark*, is erected, funded by Paul G. McIntire. This statue is of Lewis, Clark, and Sacagawea, a Shoshone woman who served as their guide for much of the journey.  Sacagawea is intentionally shown in a submissive posture below two standing men.
 * **1920** Charlottesville chapter of the Ku Klux Klan founded, Klan No. 9. UVa has a separate chapter, No. 5. 
 * **1921** Thomas Jonathan Jackson sculpture of Gen. T. J. "Stonewall" Jackson erected, funded by Paul G. McIntire
 * **1924 May** Robert Edward Lee equestrian statue dedicated, funded by Paul G. McIntire. UVa. President Edwin Alderman accepts the statue on behalf of the City. 
@@ -74,3 +76,4 @@ date: 2019-11-01T00:00:00-00:00
 * **2018 December 7** James Alex Fields Jr. found guilty of first-degree murder of Heather Heyer and other charges in the August 12, 2017 car attack
 * **2019 July** City Council establishes March 3 as Liberation and Freedom Day to celebrate the freeing of enslaved individuals in Charlottesville by the Union Army in 1865
 * **2019 July** Historical marker for the "Lynching of John Henry James" is installed at Court Square Park
+* **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to move the statue from its current location. 

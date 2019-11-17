@@ -8,7 +8,7 @@ The full 56-page document, **A Primer on the Names and Namesakes of Charlottesvi
 
 The summary of the names and namesakes is as follows:
 
-* **Venable Elementary** (1925) is named for **Lieutenant Colonel Charles S. Venable** (1827–1900). Venable served as aide-de-camp to Gen. Robert E. Lee from 1862 until 1865. He was a professor at the UVA for 40 years, writing several math textbooks and serving on the City School Board for six years.
+* **Venable Elementary** (1925) is named for **Lieutenant Colonel Charles S. Venable** (1827–1900). Venable served as aide-de-camp to Gen. Robert E. Lee from 1862 until 1865. He was a professor at the UVA for 30 years, writing several math textbooks and serving on the City School Board for six years.
 * **George Rogers Clark Elementary** (1931) is named for **Brigadier General George Rogers Clark** (1752 – 1818). Clark was born in Albemarle County near the school building. He served as an officer during the Revolutionary War and the Northwest Indian War (Little Turtle’s War).
 * **Johnson Elementary** (1954) is named for **Dr. James G. Johnson** (1871-1957). Johnson received his Ph.D. in English from UVA in 1909, then became Superintendent of Schools, holding that position until 1946.
 * **Burnley-Moran Elementary** (1954) is named for **Carrie Burnley** (1864-1954) and **Sarepta Moran** (1875-1961). Burnley worked in City schools for 50 years, teaching at all levels and as principal of McGuffey for 28 years. Moran worked in City schools for 48 years, first as a teacher, then as assistant principal at Midway, then as the first principal of Venable, working there for 21 years.

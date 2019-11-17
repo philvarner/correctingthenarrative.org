@@ -11,7 +11,7 @@ George Rogers Clark Elementary School opened in 1931 in the Belmont neighborhood
 ![George Rogers Clark Elementary School entrance](clark_school.jpg "George Rogers Clark Elementary School entrance")
 (taken 2019)
 
-Ten years prior, Paul G. McIntire had funded what is likely the most visually racist statue in the United States, *George Rogers Clark* by Robert Ingersoll Aitken, presently sited on the Grounds of the University of Virginia.  
+Ten years prior, [Paul G. McIntire](https://www.cvillepedia.org/Paul_Goodloe_McIntire) had funded what is likely the most visually racist statue in the United States, *George Rogers Clark* by Robert Ingersoll Aitken, presently sited on the Grounds of the University of Virginia.  
 
 ![George Rogers Clark statue](clark_statue_1.jpg "George Rogers Clark statue")
 
@@ -54,7 +54,7 @@ When Clark was four years old, in 1756, his family moved to Caroline County, Vir
 
 ![GRC Portrait](grc_portrait.jpg "George Rogers Clark portrait")
 
-He began his military career during Lord Dunmore's War in the Virginia militia against the Shawnee and Mingo American Indian nations.  When the Revolutionary War begin, he was comissioned as a lieutenant colonel and led a milita during the Illinois campaign.  The majority of the engagements during this, including Kaskaskia (1778) and Vincennes (1779), were against British-led units consisting primarily of allied Native American soldiers.  He was later promoted to brigadier general, and was the highest ranking officer in the western theatre of the war. Several years later, he led units during the start of the Northwest Indian War (Little Turtle's War) against a confederation of British-supported Native American nations, but was pushed out after a failed mission and competitors using his alcoholism to discredit him.  
+He began his military career during Lord Dunmore's War in the Virginia militia against the Shawnee and Mingo American Indian nations.  When the Revolutionary War begin, he was commissioned as a lieutenant colonel and led a militia during the Illinois campaign.  The majority of the engagements during this, including Kaskaskia (1778) and Vincennes (1779), were against British-led units consisting primarily of allied Native American soldiers.  He was later promoted to brigadier general, and was the highest ranking officer in the western theatre of the war. Several years later, he led units during the start of the Northwest Indian War (Little Turtle's War) against a confederation of British-supported Native American nations, but was pushed out after a failed mission and competitors using his alcoholism to discredit him.  
 
 This highway marker, replaced with revised text in 2016, stands about a mile from his birthplace:
 
@@ -64,7 +64,7 @@ Though the original 1928 marker was quite different:
 
 ![GRC birthplace marker 1928](GRC_W199_1928.jpg "GRC birthplace marker 1928")
 
-The missing part here is that "defender of Kentucky" really means "defender of white settlers in Kentucky against Native Americans, who sought to reclaim land that was taken from them".  And note that "Conqueror of the Northwest" is removed, since the "conqueroring" was ostensibly against the colonial power of Britain, but practically against the Native Americans who had already settled on or claimed rights over the land.  
+The missing part here is that "defender of Kentucky" really means "defender of white settlers in Kentucky against Native Americans, who sought to reclaim land that was taken from them".  And note that "Conqueror of the Northwest" is removed, since the "conquering" was ostensibly against the colonial power of Britain, but practically against the Native Americans who had already settled on or claimed rights over the land.  
 
 However, Clark's victories were largely symbolic rather than militarily important -- symbolic of the nascent United States' ability to perpetuate a settler-colonialist agenda on the "frontier" against Native Americans. Even Clark's most significant victory, the capture of Fort Sackville at Vincennes, was done with only 160 men, compared with the Continental Army's numerous eastern engagements with thousands of troops.  
 
@@ -120,7 +120,7 @@ Clark spent a significant amount of his personal wealth funding his military uni
 
 But **why** would it be so important to put up a statue to Clark in 1921, and name a school after him ten years later?
 
-**Paul G. McIntire**.  [McIntire](https://www.cvillepedia.org/Paul_Goodloe_McIntire) was born in Charlottesville just prior to the secession of Virginia that precipitated the Civil War. After making his fortune in Chicago, retired back to the City.  He donated a signficant amount of money to both UVA and the city and country, as evidenced by the numerous places named for him.  These donations include both the *Robert Edward Lee* and *Thomas Jonathan Jackson* statues in downtown Charlottesville.
+**Paul G. McIntire**.  [McIntire](https://www.cvillepedia.org/Paul_Goodloe_McIntire) was born in Charlottesville just prior to the secession of Virginia that precipitated the Civil War. After making his fortune in Chicago, retired back to the City.  He donated a significant amount of money to both UVA and the city and country, as evidenced by the numerous places named for him.  These donations include both the *Robert Edward Lee* and *Thomas Jonathan Jackson* statues in downtown Charlottesville.
 
 ![Paul G. McIntire](mcintire.jpg "Paul G. McIntire")
 
@@ -138,9 +138,11 @@ McIntire had already funded as the statue *George Rogers Clark* ten years prior.
 
 The September 1921 issue of *The University of Virginia Alumni News* describes the new statue thusly:
 
-> In his work Mr. Aitken depicts an incident in the adventurous achievements of George Rogers Clark who has been called "The Hannibal of the West". He is shown parleying with two apparently hostile chiefs with his group of Indian hunters prepared to aid him.  One of his men is seen crouching over a barrel of powder and The Conqueror of the Northwest is evidently explaining the futility of a resistance. The Indian squaw with the chievs is inviting the mercy of the invaders and begging for the protection of her young baby.
+> In his work Mr. Aitken depicts an incident in the adventurous achievements of George Rogers Clark who has been called "The Hannibal of the West". He is shown parleying with two apparently hostile chiefs with his group of Indian hunters prepared to aid him.  One of his men is seen crouching over a barrel of powder and The Conqueror of the Northwest is evidently explaining the futility of a resistance. The Indian squaw with the chiefs is inviting the mercy of the invaders and begging for the protection of her young baby.
 
-The Daily Progress describes the dedication ceremony, mentioning Carrie Burnley's role.  
+Refreshingly, this article does nothing to hide the blatant racism this statue intentionally represents.
+
+The Daily Progress describes the dedication ceremony, mentioning the role of Carrie Burnley, for whom Burnley-Moran Elementary was named: 
 
 ![Burnley](burnley_grc.jpg "Burnley")
 
@@ -150,12 +152,9 @@ The Daily Progress describes the dedication ceremony, mentioning Carrie Burnley'
 >
 >One notable group of octogenarians on the platform held the brothers Duke and Dr. Petrie, of the old veterans, while Dr. F. H. Smith flanked them on the opposite side.
 
-Burnley was then the principal of McGuffey Primary and a "true daughter" of the Albemarle Chapter of the United Daughters of the Confederacy, as her father had fought in the Confederate Army during the Civil War.  Also mentioned are Dr. Petrie, likely [George Petrie](http://encyclopediaofalabama.org/article/h-2578), UVA alum and coach of Auburn's first football team, Prof. Francis H. Smith, Commissioner of Weights and Measures for the Confederacy and Professor of Natural Philosophy at UVA for 53 years, and the Duke brothers, William Richard Duke and R. T. W. Duke, Jr., a [major proponent of the Lost Cause](https://news.virginia.edu/content/uva-and-history-race-lost-cause-through-judge-dukes-eyes).  
+Burnley was then the principal of McGuffey Primary, first cousin of Paul McIntire though their mothers, and a "true daughter" of the Albemarle Chapter of the United Daughters of the Confederacy, as her father, Drury Wood Burnley, had fought in the Confederate States Army during the Civil War.  Also mentioned are Dr. Petrie, likely [George Petrie](http://encyclopediaofalabama.org/article/h-2578), UVA alum and coach of Auburn's first football team, Prof. Francis H. Smith, Commissioner of Weights and Measures for the Confederacy and Professor of Natural Philosophy at UVA for 53 years, and the Duke brothers, William Richard Duke and R. T. W. Duke, Jr., a [major proponent of the Lost Cause](https://news.virginia.edu/content/uva-and-history-race-lost-cause-through-judge-dukes-eyes).  
 
-These circumstances lead to the conclusion that this is not just the memorialization of a Revolutionary War hero, but rather an overt attempt to promote a white supremicist agenda.  A mounted Clark is clearly threatening a group of Native Americans as part of the statue, rather than, for example, British officer Henry 
-Hamilton, the commander during of Clark's capture of Fort Sackville.
-
-In the memorialization of Clark, we have different but related manifestations of white supremacy -- in the late 1700s we have the push to exterminate Native Americans so their land could be given to white settlers and the enslavement of Africans for the enrichment of plantation owners, and in the 1920s we have public veneration of Clark and others, such as Robert E. Lee and Stonewall Jackson, to support segregation and Jim Crow. As a community, we now have greater respect for one another in a multicultural society, and must re-evaluate the existance of these artifacts of explicit racism and white supremacy.
+In the memorialization of Clark, we have different but related manifestations of white supremacy -- in the late 1700s we have the push to exterminate Native Americans so their land could be given to white settlers and the enslavement of Africans for the enrichment of plantation owners, and in the 1920s we have public veneration of Clark and others, such as Robert E. Lee and Stonewall Jackson, to support segregation and Jim Crow. As a community, we now have greater respect for one another in a multicultural society, and must re-evaluate the existence of these artifacts of explicit racism and white supremacy.
 
 ## Resources
 
