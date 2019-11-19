@@ -15,7 +15,7 @@ date: 2019-11-01T00:00:00-00:00
 * **1863 January 1** Emancipation Proclamation issued, freeing enslaved individuals in the parts of the Confederate States not under Union control.  Slavery had already been outlawed in every Northern state.
 * **1865 March 3** The Union Army under Major General Philip Sheridan arrives in Charlottesville, freeing more than 14,000 enslaved people. 
 * **1865 April 9** Gen. Robert E. Lee, General in Chief of the Armies of the Confederate States, surrenders to Gen. Ulysses S. Grant, Commanding General of the United States Army, ending the Civil War  
-* **1865** Ku Klux Klan white supremacist group forms
+* **1865** Ku Klux Klan white supremacist group forms in Tennessee
 * **1870 October 12**  Gen. Robert E. Lee dies in Lexington, Va.
 * **1893** The Ladies Confederate Memorial Association erects a Confederate statue University Cemetery and Columbarium on the grounds of UVA.
 * **1898** John Henry James is lynched west of Charlottesville while under police protection after being accused of raping a white woman.
