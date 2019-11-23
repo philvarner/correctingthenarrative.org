@@ -7,6 +7,12 @@ date: 2019-11-01T00:00:00-00:00
 
 **This timeline is a work in progress.  Corrections, additions, and any other feedback is appreciatively welcomed**
 
+Other timelines:
+* [Charlottesville City School History: A Timeline](http://charlottesvilleschools.org/timeline)
+* [Charlottesville 2017: The Legacy of Race and Inequity](https://www.upress.virginia.edu/title/5326) by Louis P. Nelson and Claudrena N. Harold
+
+## Timeline
+
 * For at least 10,000 years, Indigenous Native Americans inhabit Virginia.  At the time of first European contact, these include numerous groups speaking Algonquian, Iroquoian, and Siouan languages.  The Monacan people inhabit the area around Charlottesville.
 * **1607** The first permanent English settlement is established at Jamestown, in an area already occupied by the  Powhatan autocracy. Siouan Indians of the Monacan and Mannahoac tribes inhabit Virginia west of the Blue Ridge Mountains, including the area around what will become Charlottesville.
 * **1781** Thomas Jefferson publishes his only book, *Notes on the State of Virginia*. It is an intellectual pillar of racist thought at the time.
@@ -75,5 +81,5 @@ date: 2019-11-01T00:00:00-00:00
 * **2018 Summer** The exact site of John Henry James's lynching is identified. Soil is gathered and taken to the National Memorial for Peace and Justice in Montgomery, Alabama.
 * **2018 December 7** James Alex Fields Jr. found guilty of first-degree murder of Heather Heyer and other charges in the August 12, 2017 car attack
 * **2019 July** City Council establishes March 3 as Liberation and Freedom Day to celebrate the freeing of enslaved individuals in Charlottesville by the Union Army in 1865
-* **2019 July** Historical marker for the "Lynching of John Henry James" is installed at Court Square Park
-* **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to move the statue from its current location. 
+* **2019 July** Historical marker for the "Lynching of John Henry James" is installed in Charlotttesville's historic Court Square
+* **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to permanently move the statue from its current location. 

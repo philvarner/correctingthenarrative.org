@@ -1,5 +1,5 @@
 ---
-title: "Why George Rogers Clark Elementary?"
+title: "Why name a school for Gen. George Rogers Clark?"
 date: 2019-11-08T00:00:00-00:00
 ---
 
@@ -124,7 +124,7 @@ But **why** would it be so important to put up a statue to Clark in 1921, and na
 
 ![Paul G. McIntire](mcintire.jpg "Paul G. McIntire")
 
-McIntire’s first wife, Edith Clark, was a descendant of G. R. Clark's father, John Clark III.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having, in 1924, supported naming the new primary school for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, he supports naming the new white school for Clark in 1930.
+Both McIntire and his first wife, Edith Clark, were descendants of the Clark family.  Edith was a descendant of G. R. Clark's father, John Clark III. McIntire was descended via his mother, Catherine Clark McIntire, though precise documentation of her lineage is not public, however it is known not to be through G. R. or William.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having, in 1924, supported naming the new primary school for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, he supports naming the new white school for Clark in 1930.
 
 >At a regular meeting of the School Board held March 20, 1930, Mr. Paul G. McIntire appeared before the School Board and set forth in a very clear and concise manner his reasons for thinking the name, George Rogers Clark, especially appropriate for the new school plant. At this meeting the name George Rogers Clark School was given to the new building to be constructed.  It is not necessary to discuss the felicity of this name. Clark was born almost in sight of the location of this school building, and his services to Virginia and the nation are well known.
 >
@@ -164,3 +164,4 @@ In the memorialization of Clark, we have different but related manifestations of
 * Cvillepedia [Clark Elementary School](https://cvillepedia.org/Clark_Elementary_School)
 * Cvillepedia [​George Rogers Clark](https://cvillepedia.org/George_Rogers_Clark)
 * ​Wikipedia​ [​George Rogers Clark](https://en.wikipedia.org/wiki/George_Rogers_Clark)
+* Wilkerson, William R., and William G. Shenkir, *Paul G. Mclntire, Businessman and Philanthropist*, 1988, Charlottesville, University of Virginia, p. 1.
