@@ -11,7 +11,7 @@ George Rogers Clark Elementary School opened in 1931 in the Belmont neighborhood
 ![George Rogers Clark Elementary School entrance](clark_school.jpg "George Rogers Clark Elementary School entrance")
 (taken 2019)
 
-Ten years prior, [Paul G. McIntire](https://www.cvillepedia.org/Paul_Goodloe_McIntire) had funded what is likely the most visually racist statue in the United States, *George Rogers Clark* by Robert Ingersoll Aitken, presently sited on the Grounds of the University of Virginia.  
+Ten years prior, [Paul G. McIntire](https://www.cvillepedia.org/Paul_Goodloe_McIntire) had funded what is likely the most visually racist statue in the United States, *George Rogers Clark* by Robert Ingersoll Aitken, on the Grounds of the University of Virginia.  
 
 ![George Rogers Clark statue](clark_statue_1.jpg "George Rogers Clark statue")
 
@@ -27,7 +27,7 @@ On the Charlottesville City Schools website, the [About Clark Elementary School]
 
 This is an intentionally simplified and sanitized summary of Clark.  A more accurate summary is:
 
-> George Rogers Clark was an American miliary officer who executed US government policy to eradicate Native Americans from what is now the Midwest of the United States during the Revolutionary War.  His family grew wealthy through enslaving Black people on their several plantations.  
+> George Rogers Clark was an American miliary officer who executed US government policy to eradicate Native Americans from what is now the Midwest of the United States before, during, and after the Revolutionary War.  His family grew wealthy through enslaving Black people on their several plantations.  
 
 Let's dig a little deeper. 
 
@@ -54,7 +54,7 @@ When Clark was four years old, in 1756, his family moved to Caroline County, Vir
 
 ![GRC Portrait](grc_portrait.jpg "George Rogers Clark portrait")
 
-He began his military career during Lord Dunmore's War in the Virginia militia against the Shawnee and Mingo American Indian nations.  When the Revolutionary War begin, he was commissioned as a lieutenant colonel and led a militia during the Illinois campaign.  The majority of the engagements during this, including Kaskaskia (1778) and Vincennes (1779), were against British-led units consisting primarily of allied Native American soldiers.  He was later promoted to brigadier general, and was the highest ranking officer in the western theatre of the war. Several years later, he led units during the start of the Northwest Indian War (Little Turtle's War) against a confederation of British-supported Native American nations, but was pushed out after a failed mission and competitors using his alcoholism to discredit him.  
+He began his military career during Lord Dunmore's War in the Virginia militia against the Shawnee and Mingo American Indian nations.  When the Revolutionary War begin, he was commissioned as a lieutenant colonel and led a militia during the Illinois campaign.  The majority of the engagements during this, including Kaskaskia (1778) and Vincennes (1779), were against British-led units consisting primarily of allied Native American fighters.  He was later promoted to brigadier general, and was the highest ranking officer in the western theatre of the war. Several years later, he led units during the start of the Northwest Indian War (Little Turtle's War) against a confederation of British-supported Native American nations, but was pushed out after a failed mission and competing officers used his alcoholism to discredit him.  
 
 This highway marker, replaced with revised text in 2016, stands about a mile from his birthplace:
 
@@ -124,7 +124,7 @@ But **why** would it be so important to put up a statue to Clark in 1921, and na
 
 ![Paul G. McIntire](mcintire.jpg "Paul G. McIntire")
 
-Both McIntire and his first wife, Edith Clark, were descendants of the Clark family.  Edith was a descendant of G. R. Clark's father, John Clark III. McIntire was descended via his mother, Catherine Clark McIntire, though precise documentation of her lineage is not public, however it is known not to be through G. R. or William.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having, in 1924, supported naming the new primary school for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, he supports naming the new white school for Clark in 1930.
+McIntire's first wife, Edith Clark, a descendant of G. R. Clark's father, John Clark III. McIntire also had the Clark/Clarke name in his lineage through his mother, Catherine (Ann) Clarke McIntire, though there is no documentation that it is directly the same Clark line.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having supported naming Venable Primary for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, in 1924, he supported naming the new white school for George Rogers Clark in 1930.
 
 >At a regular meeting of the School Board held March 20, 1930, Mr. Paul G. McIntire appeared before the School Board and set forth in a very clear and concise manner his reasons for thinking the name, George Rogers Clark, especially appropriate for the new school plant. At this meeting the name George Rogers Clark School was given to the new building to be constructed.  It is not necessary to discuss the felicity of this name. Clark was born almost in sight of the location of this school building, and his services to Virginia and the nation are well known.
 >

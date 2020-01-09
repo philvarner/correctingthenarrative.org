@@ -1,9 +1,9 @@
 ---
-title: "Historical Supplement to the McGuffey Reader by Dr. James G. Johnson"
+title: "Historical Supplement to The McGuffey Reader by Dr. James G. Johnson"
 date: 2019-10-28T20:34:45-04:00
 ---
 
-In 1936, Dr. James G. Johnson published an "Historical Supplement" as part of the McGuffey Reader series that detailed historical information about Charlottesville City Schools.  Several other prominent teachers and principals contributed to the volume, including Carrie Burnley, Sarepta Moran, and Florence Buford. This post links to some scans of the most relevant information in that book.
+In 1936, Dr. James G. Johnson published an "Historical Supplement" as part of the The McGuffey Reader magazine published by McGuffey School that detailed historical information about Charlottesville City Schools.  Several other prominent teachers and principals contributed to the volume, including Carrie Burnley, Sarepta Moran, and Florence Buford. This post links to some scans of the most relevant information in that book.
 
 <!--more--> 
 
