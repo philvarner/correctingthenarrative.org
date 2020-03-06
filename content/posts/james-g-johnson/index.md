@@ -35,6 +35,7 @@ In 1936, he edited and contributed to a [detailed history](../johnson-history) o
 
 * Johnson, J. G., *Autobiography*
 * Johnson, J. G., *​Education Pamphlets: Vol. 3.​ 1936. History of McGuffey school, 1915-1936. History of Venable school, 1922-1936. History of George Rogers Clark school, 1928-1936.*
+* James, Michael E. *The Conspiracy of the Good: Civil Rights and the Struggle for Community in Two American Cities, 1875-2000* Peter Lang Inc., International Academic Publishers, 2004.
 * *The Daily Progress*, Dr. Johnson, School Head 36 Years, Dies. June 21, 1957
 * Douglas, Andrea (ed.), *Pride Overcomes Prejudice: A History of Charlottesville's African American School*
 * Moore, Elizabeth, *Venable and Jefferson: Cultural Monuments of Two Communities*, reprinted in Jefferson School Oral History Project. 

@@ -1,12 +1,12 @@
 ---
 title: "The Names and Namesakes of Charlottesville City Schools"
-date: 2020-01-08T00:34:45-04:00
+date: 2020-02-19T12:34:45-04:00
 summary: A summary of the names and namesakes of Charlottesville City Schools, with links to a 50+ page document including detailed information about the naming of each school and biographical information about the namesake.
 ---
 
 Click on each person's name below to see a detailed article about them and why a school is named for them.
 
-* **Venable Elementary** (1925) is named for **[Lieutenant Colonel Charles S. Venable](../charles-venable)** (1827–1900). Venable served as aide-de-camp to Gen. Robert E. Lee from 1862 until 1865 in the Confederate States Army. He was a professor at the UVA for 30 years, writing several math textbooks and serving on the City School Board for six years.
+* **Venable Elementary** (1925) is named for "Colonel" **[Charles S. Venable](../charles-venable)** (1827–1900). Venable was a Confederate officer and served as aide-de-camp to Robert E. Lee from 1862 until 1865. He was a professor at the UVA for 30 years, writing several math textbooks and serving on the City School Board for six years.
 * **George Rogers Clark Elementary** (1931) is named for **[Brigadier General George Rogers Clark](../george-rogers-clark)** (1752-1818). Clark was born in Albemarle County near Charlottesville. He spent most of his military career supporting white settler-colonialist expansion in land occupied or claimed by Indigenous groups in Lord Dunmore's War, the Revolutionary War, and the Northwest Indian War.
 * **Johnson Elementary** (1954) is named for **[Dr. James G. Johnson](../james-g-johnson)** (1871-1957). Johnson received his Ph.D. in English from UVA in 1909, then became Superintendent of Schools, holding that position until 1946.
 * **Burnley-Moran Elementary** (1954) is named for **[Carrie Burnley](../carrie-burnley)** (1864-1954) and **[Sarepta Moran](../sarepta-moran)** (1875-1961). Burnley worked in City schools for 50 years, teaching at all levels and as principal of McGuffey for 28 years. Moran worked in City schools for 48 years, first as a teacher, then as assistant principal at Midway, then as the first principal of Venable, working there for 21 years.

@@ -17,19 +17,19 @@ Among the topics are:
 
 The entire volume is in the collection of the UVA Library. The PDFs below contain some of the most relevant information.
 
-Download as a [single 400MB PDF here](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936.pdf).
+Download as a [single 400MB PDF here](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936.pdf).
 
 Download as individual smaller PDFs (30-60MB): 
 
-* [part 1](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part1.pdf)
-* [part 2](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part2.pdf)
-* [part 3](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part3.pdf)
-* [part 4](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part4.pdf)
-* [part 5](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part5.pdf)
-* [part 6](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part6.pdf)
-* [part 7](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part7.pdf)
-* [part 8](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part8.pdf)
-* [part 9](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part9.pdf)
-* [part 10](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936_part10.pdf)
+* [part 1](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part1.pdf)
+* [part 2](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part2.pdf)
+* [part 3](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part3.pdf)
+* [part 4](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part4.pdf)
+* [part 5](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part5.pdf)
+* [part 6](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part6.pdf)
+* [part 7](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part7.pdf)
+* [part 8](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part8.pdf)
+* [part 9](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part9.pdf)
+* [part 10](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936_part10.pdf)
 
-Download as a [420MB zip of JPEGs here](http://static.correctingthenarrative.org/Johnson_McGuffey_Reader_Supplement_1936.zip)
+Download as a [420MB zip of JPEGs here](http://static.correctingthenarrative.org/library/johnson1936/Johnson_McGuffey_Reader_Supplement_1936.zip)

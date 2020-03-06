@@ -60,6 +60,7 @@ Other timelines:
 * **2015 January** City of Charlottesville ends formal celebration of Lee-Jackson Day.
 * **2015 March 18** Martese Johnson, an African American student at the University of Virginia, is assaulted by Virginia Alcoholic Beverage Control Authority Bureau of Law Enforcement officers during an an arrest after being denied admittance to a bar on the Corner. 
 * **2015 June 17** Dylan Storm Roof murders nine African American members of the Emanuel African Methodist Episcopal Church in Charleston, South Carolina in the delusional hope of igniting a "race war". Soon after, Governor of South Carolina Nikki Haley removes the Confederate battle flag from the South Carolina Capitol.  Efforts to remove many other public displays of Confederate flags and monuments begin.
+* **2016 March** Zyahna Bryant, a 14 year old student at Charlottesville High School, petitions the Charlottesville City Council to remove the Lee statue and rename Lee Park. Bryant continues this work to the present.
 * **2016 March** Governor of Virginia Terry McAuliffe vetoes bill amending Virginia code 15.2** 1812 "Memorials for war veterans" to explicitly state that all monuments are protected, regardless of when they were erected.
 * **2016 March 19** At a talk by social justice activist Bryan Stevenson, Vice-Mayor Wes Bellamy publicly brings up issue of moving the Robert E. Lee equestrian statue 
 * **2016 March 21** Vice-Mayor Wes Bellamy formally calls for moving the Lee statue at a City Council meeting.
@@ -88,3 +89,4 @@ Other timelines:
 * **2019 July** City Council establishes March 3 as Liberation and Freedom Day to celebrate the freeing of enslaved individuals in Charlottesville by the Union Army in 1865
 * **2019 July** Historical marker for the "Lynching of John Henry James" is installed in Charlotttesville's historic Court Square
 * **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to permanently move the statue from its current location. 
+* **2020 February** A white local resident steals the "Slave Auction Block" marker in Court Square, as a misguided attempt to force the City to place a more prominent memorial. 

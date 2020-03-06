@@ -1,5 +1,5 @@
 ---
-title: "Why name a school for Col. Charles S. Venable?"
+title: "Why name a school for Charles S. Venable?"
 date: 2019-11-17T00:00:00-00:00
 ---
 
@@ -11,14 +11,14 @@ from *History of Venable School 1922-1936* by Johnson and Moran, 1936. captioned
 ![Venable School 2019](venable_2019.jpg "Venable School 2019")
 *Venable Elementary in 2019*
 
-Venable Elementary School was opened in 1925 in what is now the Venable neighborhood of Charlottesville, Virginia, as the primary school for white students living on the west side of the city. The school's namesake, Col. Charles S. Venable, has since fallen into obscurity, so that even those parents with students in the school would be hard-pressed to come up with his name or why the school was named for him.
+Venable Elementary School was opened in 1925 in what is now the Venable neighborhood of Charlottesville, Virginia, as the primary school for white students living on the west side of the city. The school's namesake, Charles S. Venable, has since fallen into obscurity, so that even those parents with students in the school would be hard-pressed to come up with his name or why the school was named for him.
 
 This is the somewhat-obscured description on the Charlottesville City Schools website:
 
 > The school was named for Colonel Charles Scott Venable, who was a Civil War soldier, professor of mathematics at the University of Virginia and author of arithmetic books for children.  
 > [About Venable Elementary School](http://charlottesvilleschools.org/venable/us), 
 
-Venable wasn't just "a" Civil War soldier. He played an instrumental role in the Confederate States Army as an aide-de-camp to ["the most heroic and saintly of all Confederates"](https://www.encyclopediavirginia.org/lost_cause_the#its1) Robert E. Lee, spending three years of the war either consulting with Lee or performing tasks directly assigned by him.  He then parlayed this close association with Lee, including a personal letter of recommendation from him, into a professorship at UVa.  
+Venable wasn't just "a" Civil War soldier. He played an instrumental role as a Confederate officer, serving as an aide-de-camp to ["the most heroic and saintly of all Confederates"](https://www.encyclopediavirginia.org/lost_cause_the#its1) Robert E. Lee, spending three years of the war either consulting with Lee or performing tasks directly assigned by him.  He then parlayed this close association with Lee, including a personal letter of recommendation from him, into a professorship at UVa.  
 
 ![Lee medallion](lee_medallion_cropped.jpg "Lee Medallion")
 *[Military Medallion: Robert E. Lee and Staff](https://moconfederacy.pastperfectonline.com/photo/FEA8F479-B82D-471A-85AC-306041763881), "Lt Col C. S. Venable A. D. C." in 11 o'clock position, from the collection of the [American Civil War Museum](https://acwm.org)*
@@ -27,7 +27,7 @@ Throughout his life, he actively supported the institution of slavery, enthusias
 
 >[Venable] derided the idea of giving freedmen the vote, expressing thanks that Virginia had escaped the **'black dominion'** of military Reconstruction, and derided the idea of blacks attending the University of South Carolina as **'the Fetish of abolitionists.'** Finally, he summarized Reconstruction itself as **'the cruel crotchets of a sentimental philanthropy.'**  
 >  
-> from *Reconstruction: America's Unfinished Revolution* by Eric Foner 
+> from *Sacrificing for the Lost Cause* by Robert W. Sidwell
 
 ## Early Life 
 
