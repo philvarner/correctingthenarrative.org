@@ -36,7 +36,7 @@ In a speech given at her retirement, her early life in the context of post-Civil
 
 >Her earliest memory was of the river and boat, a picnic ground across the river, and the quarters where the slaves had lived.  The family moved to "Rio" on Rivanna River when she was four years old.  She never tired of hearing her older sisters, Bettie and Sally, tell how the "Yankees" came in 1865 and burned the mills and bridge at "Rio", the home there lying between the Confederate and Federal lines during the "Battle of Rio".
 
-The story of the "Battle of Rio" is recounted in more detail by Burnley's sister, Sallie Burnley, in *Confederate Veteran* magazine, October 1923 ([PDF](sallie_burnley_battle_of_rio_cv_oct_1923.pdf)). Noticeably missing from this account of those enslaved by the Burnley family, who would either have been moved away from the farm pending the arrival of Union troops, or freed by those troops. Note that there is a discrepancy between these accounts, as the [Union occupation of Charlottesville](https://www.encyclopediavirginia.org/Union_Occupation_of_Charlottesville_1865#start_entry) occurred in March 1965, though Sallie Burnley's article places the events described in 1864.
+The story of the "Battle of Rio" (actually in 1864, rather than 1865) is recounted in more detail by Burnley's sister, Sallie Burnley, in *Confederate Veteran* magazine, October 1923 ([PDF](sallie_burnley_battle_of_rio_cv_oct_1923.pdf)).
 
 ![Burnley UDC](burnley-udc-2.jpg "burnley udc")
 
