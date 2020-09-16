@@ -5,7 +5,7 @@ date: 2019-12-08T00:00:00-00:00
 
 # A Timeline of Events Related to Racism and White Supremacy in Charlottesville, Virginia
 
-**This timeline is a work in progress.  Corrections, additions, and any other feedback is appreciatively welcomed**
+This timeline, as all recorded history, is far from complete.  Most notably, it only record "events" -- an acute occurrence or change.
 
 Other timelines:
 
@@ -87,6 +87,6 @@ Other timelines:
 * **2018 Summer** The exact site of John Henry James's lynching is identified. Soil is gathered and taken to the National Memorial for Peace and Justice in Montgomery, Alabama.
 * **2018 December 7** James Alex Fields Jr. found guilty of first-degree murder of Heather Heyer and other charges in the August 12, 2017 car attack
 * **2019 July** City Council establishes March 3 as Liberation and Freedom Day to celebrate the freeing of enslaved individuals in Charlottesville by the Union Army in 1865
-* **2019 July** Historical marker for the "Lynching of John Henry James" is installed in Charlotttesville's historic Court Square
+* **2019 July** Historical marker for the "Lynching of John Henry James" is installed in Charlottesville's historic Court Square
 * **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to permanently move the statue from its current location. 
 * **2020 February** A white local resident steals the "Slave Auction Block" marker in Court Square, as a misguided attempt to force the City to place a more prominent memorial. 

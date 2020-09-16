@@ -124,7 +124,7 @@ But **why** would it be so important to put up a statue to Clark in 1921, and na
 
 ![Paul G. McIntire](mcintire.jpg "Paul G. McIntire")
 
-McIntire's first wife, Edith Clark, a descendant of G. R. Clark's father, John Clark III. McIntire also had the Clark/Clarke name in his lineage through his mother, Catherine (Ann) Clarke McIntire, though there is no documentation that it is directly the same Clark line.  McIntire held significant sway in Charlottesville due to his financial patronage, so after having supported naming Venable Primary for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, in 1924, he supported naming the new white school for George Rogers Clark in 1930.
+Both McIntire's mother, Catherine (Ann) Clarke McIntire, and his first wife, Edith Clark, were members of the Clark/Clarke family of Virginia, though not through George Rogers or his immediate family. McIntire held significant sway in Charlottesville due to his financial patronage, so after having supported naming Venable Primary for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, in 1924, he supported naming the new white school for George Rogers Clark in 1930.
 
 >At a regular meeting of the School Board held March 20, 1930, Mr. Paul G. McIntire appeared before the School Board and set forth in a very clear and concise manner his reasons for thinking the name, George Rogers Clark, especially appropriate for the new school plant. At this meeting the name George Rogers Clark School was given to the new building to be constructed.  It is not necessary to discuss the felicity of this name. Clark was born almost in sight of the location of this school building, and his services to Virginia and the nation are well known.
 >
