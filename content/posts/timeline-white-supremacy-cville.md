@@ -89,4 +89,5 @@ Other timelines:
 * **2019 July** City Council establishes March 3 as Liberation and Freedom Day to celebrate the freeing of enslaved individuals in Charlottesville by the Union Army in 1865
 * **2019 July** Historical marker for the "Lynching of John Henry James" is installed in Charlottesville's historic Court Square
 * **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to permanently move the statue from its current location. 
-* **2020 February** A white local resident steals the "Slave Auction Block" marker in Court Square, as a misguided attempt to force the City to place a more prominent memorial. 
+* **2020 February** A white local resident, Richard H. Allan, III, steals the "Slave Auction Block" marker in Court Square, in a misguided attempt to force the City to place a more prominent memorial. 
+* **2020 September 12** The Confederate memorial to veterans of Charlottesville and Albemarle [*At Ready*](/posts/acc-conf-soldier-statue) was removed from Court Square. 
