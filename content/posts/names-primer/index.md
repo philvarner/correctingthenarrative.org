@@ -1,6 +1,6 @@
 ---
 title: "The Names and Namesakes of Charlottesville City Schools"
-date: 2020-02-19T12:34:45-04:00
+date: 2020-10-14T12:34:45-04:00
 summary: A summary of the names and namesakes of Charlottesville City Schools, with links to a 50+ page document including detailed information about the naming of each school and biographical information about the namesake.
 ---
 

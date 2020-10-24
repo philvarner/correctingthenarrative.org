@@ -1,11 +1,9 @@
 ---
 title: "A Timeline of Events Related to Racism and White Supremacy in Charlottesville, Virginia"
-date: 2019-12-08T00:00:00-00:00
+date: 2020-10-13T00:00:00-00:00
 ---
 
-# A Timeline of Events Related to Racism and White Supremacy in Charlottesville, Virginia
-
-This timeline, as all recorded history, is far from complete.  Most notably, it only record "events" -- an acute occurrence or change.
+This timeline is far from complete.  Most notably, it only record "events" -- an acute occurrence or change -- and not on-going situations and processes that have far more effect on people.
 
 Other timelines:
 
@@ -22,10 +20,10 @@ Other timelines:
 * **1781** Thomas Jefferson publishes his only book, *Notes on the State of Virginia*. It is an intellectual pillar of racist thought at the time.
 * **1807 January 19** Gen. Robert E. Lee born at Stratford Hall, Virginia.
 * **1861 April** Gen. Robert E. Lee resigns from United States Army and is elected leader of the Virginia state forces, which is later subsumed into the Confederate States Army
-* **1863 January 1** Emancipation Proclamation issued, freeing enslaved individuals in the parts of the Confederate States not under Union control.  Slavery had already been outlawed in every Northern state.
-* **1865 March 3** The Union Army under Major General Philip Sheridan arrives in Charlottesville, freeing more than 14,000 enslaved people. 
-* **1865 April 9** Gen. Robert E. Lee, General in Chief of the Armies of the Confederate States, surrenders to Gen. Ulysses S. Grant, Commanding General of the United States Army, ending the Civil War  
-* **1865** Ku Klux Klan white supremacist group forms in Pulaski County, Tennessee
+* **1863 January 1** Emancipation Proclamation issued, freeing enslaved individuals in the parts of the Confederate States not under Union control.
+* **1865 March 3** The Union Army under Major General Philip Sheridan arrives in Charlottesville, forcibly ensuring the freedom of more than 14,000 enslaved people. 
+* **1865 April 9** Gen. Robert E. Lee, General in Chief of the Armies of the Confederate States, surrenders to Gen. Ulysses S. Grant, Commanding General of the United States Army, ending the Civil War.
+* **1865** Ku Klux Klan white supremacist terrorist group forms in Pulaski County, Tennessee.
 * **1870 October 12**  Gen. Robert E. Lee dies in Lexington, Va.
 * **1893** The Ladies Confederate Memorial Association erects a Confederate statue University Cemetery and Columbarium on the grounds of UVA.
 * **1898** John Henry James is lynched west of Charlottesville while under police protection after being accused of raping a white woman.
@@ -40,6 +38,7 @@ Other timelines:
 * **1924** The [Racial Integrity Act of 1924](https://en.wikipedia.org/wiki/Racial_Integrity_Act_of_1924) requires all birth and marriage certificates to specify "race" as either "white" or "colored", and prevents marriages between two people who are classified as different races.  This has the effect of "documentary genocide" against Indigenous Virginians as they are legally classified as "colored".
 * **1924 May** Robert Edward Lee equestrian statue dedicated, funded by Paul G. McIntire. UVa. President Edwin Alderman accepts the statue on behalf of the City. 
 * **1924 November** School board names new primary school for Col. Charles S. Venable, aide-de-camp to Gen. Robert E. Lee, supported by Paul G. McIntire
+* **1950** *Swanson v. Rector and Board of Visitors, University of Virginia* forces UVA to admit Gregory Swanson to the Law School, the first Black student in a public college in Virginia. 
 * **1951** Jackson P. Burley High School opens as a Black-only school serving both Albemarle and Charlottesville students, as part of the "passive resistance" effort to provide better schools for Black students to appear to more fully comply with the "separate but equal" doctrine, in order to forestall integration
 * **1954** Brown v. Board of Education of Topeka ruling strikes down Plessy v. Ferguson "separate but equal" segregation doctrine. Brown includes the case Davis et al. v. County School Board of Prince Edward County, which attempted to address the poor conditions at the all-Black Moton High School in Farmville, Va. 
 * **1955** Brown II orders school districts to desegregate "with all deliberate speed"
@@ -56,15 +55,15 @@ Other timelines:
 * **1968 April 4** Martin Luther King, Jr. assassinated in Memphis, Tennessee.
 * **1974** Charlottesville High opens as the sole public high school in Charlottesville.
 * **1984 March** The Charlottesville High newspaper The Knight Time Review publishes racist statements in an article and has racist graffiti sprayed in the parking lot.  The school is closed after several large fights erupt. 
-* **2012 March** At a Virginia Festival of the Book event, City Councillor Kristin Szakos publicly asks Civil War expert and former UVA professor Ed Ayers if the city should consider removing or recontextualizing Confederate statues
+* **2012 March** At a Virginia Festival of the Book event, City Councilor Kristin Szakos publicly asks Civil War expert and former UVA professor Ed Ayers if the city should consider removing or recontextualizing Confederate statues
 * **2015 January** City of Charlottesville ends formal celebration of Lee-Jackson Day.
-* **2015 March 18** Martese Johnson, an African American student at the University of Virginia, is assaulted by Virginia Alcoholic Beverage Control Authority Bureau of Law Enforcement officers during an an arrest after being denied admittance to a bar on the Corner. 
+* **2015 March 18** Martese Johnson, a Black student at the University of Virginia, is assaulted by Virginia Alcoholic Beverage Control Authority Bureau of Law Enforcement officers during an an arrest after being denied admittance to a bar on the Corner. 
 * **2015 June 17** Dylan Storm Roof murders nine African American members of the Emanuel African Methodist Episcopal Church in Charleston, South Carolina in the delusional hope of igniting a "race war". Soon after, Governor of South Carolina Nikki Haley removes the Confederate battle flag from the South Carolina Capitol.  Efforts to remove many other public displays of Confederate flags and monuments begin.
-* **2016 March** Zyahna Bryant, a 14 year old student at Charlottesville High School, petitions the Charlottesville City Council to remove the Lee statue and rename Lee Park. Bryant continues this work to the present.
+* **2016 March** Zyahna Bryant, a 14 year old student at Charlottesville High School, petitions the Charlottesville City Council to remove the Lee statue and rename Lee Park. Bryant continues this work. 
 * **2016 March** Governor of Virginia Terry McAuliffe vetoes bill amending Virginia code 15.2** 1812 "Memorials for war veterans" to explicitly state that all monuments are protected, regardless of when they were erected.
 * **2016 March 19** At a talk by social justice activist Bryan Stevenson, Vice-Mayor Wes Bellamy publicly brings up issue of moving the Robert E. Lee equestrian statue 
 * **2016 March 21** Vice-Mayor Wes Bellamy formally calls for moving the Lee statue at a City Council meeting.
-* **2016 March 22** Press conference in front of the Lee statue calling for it to be removed and for Lee Park to be renamed, including speeches from Zyahna Bryant, Amy-Sarah Marshall, Dr. M. Rick Turner, City Councillor Kristin Szakos, and Vice-Mayor Wes Bellamy.
+* **2016 March 22** Press conference in front of the Lee statue calling for it to be removed and for Lee Park to be renamed, including speeches from Zyahna Bryant, Amy-Sarah Marshall, Dr. M. Rick Turner, City Councilor Kristin Szakos, and Vice-Mayor Wes Bellamy.
 * **2016 October** Doug Muir, UVa. lecturer, venture capitalist, and owner of Bella's restaurant, comments "Black lives matter is the biggest rasist [sic] organisation [sic] since the clan [sic]. Are you kidding me. Disgusting!!!" in response to a Facebook post about a event in Charlottesville featuring a panel including Black Lives Matter co-founder Alicia Garza.
 * **2016 November** As the first action in a protracted campaign to remove Vice-Mayor Wes Bellamy from office, Jason Kessler publishes a blog post calling attention to several public tweets from between 2009 and 2014 from Bellamy that are sexist, homophobic, and bigoted, out of nearly 150,000 tweets from his account.  Bellamy resigns from a State education board, is placed on leave from his teaching position at Albemarle High School, and later resigns that teaching position.
 * **2016 December** Blue Ribbon Commission on Race, Memorials and Public Spaces issues final report to City Council. This report recommends two options, Relocate and Transform-in-Place, for the Lee and Jackson sculptures, though these are only two of the many recommendations for public memorials in the report. 
@@ -89,5 +88,5 @@ Other timelines:
 * **2019 July** City Council establishes March 3 as Liberation and Freedom Day to celebrate the freeing of enslaved individuals in Charlottesville by the Union Army in 1865
 * **2019 July** Historical marker for the "Lynching of John Henry James" is installed in Charlottesville's historic Court Square
 * **2019 November 15** Emma George, Rose Ann Abrahamson, Willow Abrahamson, and Dustina E. Abrahamson, familial descendants of Sacajawea, present to Charlottesville City Council their perspective on the *Meriwether Lewis and William Clark* (also known as *Their First View of the Pacific*) statue, particularly their feeling of shame at seeing how Sacajawea is depicted. City Council then votes 4-0 (1 absent) to permanently move the statue from its current location. 
-* **2020 February** A white local resident, Richard H. Allan, III, steals the "Slave Auction Block" marker in Court Square, in a misguided attempt to force the City to place a more prominent memorial. 
-* **2020 September 12** The Confederate memorial to veterans of Charlottesville and Albemarle [*At Ready*](/posts/acc-conf-soldier-statue) was removed from Court Square. 
+* **2020 February** A white local resident, Richard H. Allan, III, steals the "Slave Auction Block" marker in Court Square, in an attempt to force the City to place a more prominent memorial. 
+* **2020 September 12** The Confederate memorial to veterans of Charlottesville and Albemarle [*At Ready*](/posts/acc-conf-soldier-statue) is removed from Court Square. 
